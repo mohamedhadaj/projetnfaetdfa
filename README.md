@@ -1,0 +1,2 @@
+# projetnfaetdfa
+nfa vers dfa
